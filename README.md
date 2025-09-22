@@ -87,16 +87,16 @@ The following sections detail the specific use cases that the system will suppor
 
 ## Use Cases
 
-### Use Case 1 - Library Exploration (End User)
-	-  Browse Catalog
-		•	Action: Scroll grid/rail of tiles with thumbnails, titles, energy badges.
-		•	Goal: Discover songs visually without forms.
-	- Search & Filter
-		•	Action: Search by title; filter by tags (Warmup/HIIT/Cooldown/etc.) or energy ranges.
-		•	Goal: Quickly narrow to what fits today’s workout.
-	- Tag Quick Picks
-		•	Action: Tap tag chips (e.g., “Hype”, “Recovery”) to view pre-filtered sets.
-		•	Goal: One-tap curation.
+### Use Case 1 - Library Exploration (End User):
+**Browse Catalog**
+	•	Action: Scroll grid/rail of tiles with thumbnails, titles, energy badges.
+	•	Goal: Discover songs visually without forms.
+**Search & Filter**
+	•	Action: Search by title; filter by tags (Warmup/HIIT/Cooldown/etc.) or energy ranges.
+	•	Goal: Quickly narrow to what fits today’s workout.
+**Tag Quick Picks**
+	•	Action: Tap tag chips (e.g., “Hype”, “Recovery”) to view pre-filtered sets.
+	•	Goal: One-tap curation.
 
 
 ### Use Case 2  - Interactive Workout Building (End User)
