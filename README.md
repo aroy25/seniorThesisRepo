@@ -1,4 +1,4 @@
-[Bass1in3] - Workout Music Companion
+#[Bass1in3] - Workout Music Companion
  - Name meaning
    - In music, a bassline is the rhythm foundation that drives a track
    - In workouts, it symbolizes the energy foundation that pushes athletes forward 
