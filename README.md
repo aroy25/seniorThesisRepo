@@ -87,94 +87,96 @@ The following sections detail the specific use cases that the system will suppor
 
 ## Use Cases
 
-### Use Case 1.1: Secure Login
-- **Actors**: Student or registrar
-- **Overview**: Actor uses password to verify their identity.
+## Use Case 1 - Library Exploration (End User)
+	*4.	Browse Catalog
+	•	Action: Scroll grid/rail of tiles with thumbnails, titles, energy badges.
+	•	Goal: Discover songs visually without forms.
+	5.	Search & Filter
+	•	Action: Search by title; filter by tags (Warmup/HIIT/Cooldown/etc.) or energy ranges.
+	•	Goal: Quickly narrow to what fits today’s workout.
+	6.	Tag Quick Picks
+	•	Action: Tap tag chips (e.g., “Hype”, “Recovery”) to view pre-filtered sets.
+	•	Goal: One-tap curation.
 
-**Typical Course of Events**:
-1. Page prompts for username and password.
-2. User enters their username and password and hits enter/login.
-3. System verifies that the username and password are correct.
+⸻
 
-**Alternative Courses**:
-- **Step 3**: User and/or password are not correct.
-  1. Displays error.
-  2. Go back to step 1.
+C. Interactive Workout Building (End User)
+	7.	Drag-and-Drop Rail
+	•	Action: Drag tiles from the library onto a horizontal timeline; color/label segments (Warmup, Push, Recover).
+	•	Goal: Compose a session playfully.
+	8.	Card Stack Suggestions
+	•	Action: Swipe right to add, left to skip, up to star; suggestions respect current filters (tags/energy).
+	•	Goal: Rapid assembly without browsing.
+	9.	Quick Draft (Auto)
+	•	Action: Pick a vibe (“Leg Day”, “Morning Run”) → app drafts a session from the preloaded catalog.
+	•	Goal: 10-second start.
+	10.	Challenge Modes (optional)
+	•	Action: Tabata/Pyramid/Countdown generators pick from the catalog by tag/energy rules.
+	•	Goal: Fun, structured workouts without manual picking.
+	11.	Reorder & Replace
+	•	Action: Drag to reorder; tap a tile to cycle through 2–3 similar alternatives from the catalog.
+	•	Goal: Fine-tune flow quickly.
+	12.	Save as Template
+	•	Action: Save the current rail layout for reuse.
+	•	Goal: Build personal routines.
 
-### Use Case 1.2: Find a Course
-- **Actors**: Student
-- **Overview**: Student finds a desired class.
+⸻
 
-**Typical Course of Events**:
-1. Run Use Case 1.1, *Secure Login*.
-2. Displays list of current and upcoming semesters.
-3. Student selects a semester.
-4. Displays departments actively offering courses in that semester.
-5. Student selects a department.
-6. Displays courses of that department from that semester that are currently offered.
-7. Student selects a course.
-8. Displays course details.
+D. Playback (Apple-Music style, End User)
+	13.	Start Session
+	•	Action: Press Play → mini player appears; tap to expand to full player video.
+	•	Goal: Seamless start.
+	14.	Queue Sheet (“Up Next”)
+	•	Action: Pull up sheet to view/reorder remaining tiles; swipe to remove; add suggestions at the end.
+	•	Goal: Mid-workout control.
+	15.	Transport Controls
+	•	Action: Play/Pause, Next/Previous, scrub with haptic ticks.
+	•	Goal: Core playback UX.
+	16.	Re-roll Next / Boost
+	•	Action: Swap the upcoming/current song with a similar/higher-energy pick from the catalog.
+	•	Goal: Keep momentum aligned with effort.
+	17.	Audio-only / PiP / AirPlay
+	•	Action: Toggle video→audio, enable Picture-in-Picture, route to speakers.
+	•	Goal: Flexibility for battery, multitasking, and gyms.
 
-**Alternative Courses**:
-- Any step: Student can start a new search at any time
-  1. Student clicks "start new search."
-  2. Go back to step 2.
+⸻
 
-### Use Case 1.3: Register for a Course
-- **Actors**: Student
-- **Overview**: Student registers for a course.
+E. Athlete-Focused Enhancements (End User)
+	18.	Segment Timer Ring & Toasts
+	•	Action: See countdown overlay and “Next segment” toast ~10s before change.
+	•	Goal: Stay in the zone.
+	19.	Shake to Reshuffle
+	•	Action: Shake to reshuffle remaining queue within current tag/energy constraints.
+	•	Goal: Fast rescue if vibe is off.
+	20.	Hype Tap
+	•	Action: Double-tap to mark a hype moment (visual pulse + log).
+	•	Goal: Capture motivation spikes.
+	21.	Low-Distraction Mode
+	•	Action: Dim UI, keep only progress/timer.
+	•	Goal: Focus during tough sets.
 
-**Typical Course of Events**:
-1. Run Use Case 1.2, *Find a Course*.
-2. Student clicks on "register for course" button.
-3. Verify that student can take the course.
-4. Display "You have successfully registered for 'insert course name here'."
+⸻
 
-**Alternative Courses**:
-- **Step 4**: Student can't take course
-  1. Displays "You cannot take this course, please contact the registrar for further information."
+F. Post-Workout (End User)
+	22.	Recap Timeline
+	•	Action: View colored rail of what played, skips, hypes, boosts.
+	•	Goal: Reflection & learning.
+	23.	Save as Template from Recap
+	•	Action: One-tap to save the completed flow.
+	•	Goal: Turn a good session into a repeatable plan.
+	24.	Quick Edit & Re-save
+	•	Action: Long-press any segment to replace from similar picks; save v2.
+	•	Goal: Iterate over time.
 
-### Use Case 1.4: Check Grades
-- **Actors**: Student
-- **Overview**: Student checks grades.
+⸻
 
-**Typical Course of Events**:
-1. Run Use Case 1.1, *Secure Login*.
-2. Display previous semesters in which the student took course(s).
-3. Student selects semester.
-4. Displays courses and grades.
-
-### Use Case 1.5: Registrar Creates Sections
-- **Actors**: Registrar
-- **Overview**: Registrar creates section.
-
-**Typical Course of Events**:
-1. Run Use Case 1.1, *Secure Login*.
-2. Registrar selects "Create Section."
-3. Display "Create Section" form.
-4. Registrar submits form.
-5. System verifies valid entry (no overlapping schedules/times).
-6. Displays section details and successfully added.
-
-**Alternative Courses**:
-- **Step 6**: Entry invalid
-  1. Display error.
-  2. Go back to step 3.
-
-### Use Case 1.6: Registrar Modifies Section
-- **Actors**: Registrar
-- **Overview**: Registrar modifies existing sections.
-
-**Typical Course of Events**:
-1. Run Use Case 1.1, *Secure Login*.
-2. Registrar selects "Modify section."
-3. Displays all sections (with order options).
-4. Choose section.
-5. Display "Edit Form" with filled-in data.
-6. Submit/verify data.
-7. Display "Section successfully edited."
-
-**Alternative Courses**:
-- **Step 7**: Invalid Data
-  1. Display Error.
-  2. Go back to step 5.
+G. System & Edge Cases
+	25.	Ad Handling
+	•	Behavior: Show “Ad playing” placeholder with countdown; allow skip to next catalog item.
+	•	Goal: Maintain rhythm.
+	26.	Unavailable Video Fallback
+	•	Behavior: If a video is blocked/removed, auto-skip to the nearest match by tag/energy; log incident.
+	•	Goal: Smooth continuity.
+	27.	Lock Screen & Background
+	•	Behavior: Media controls + artwork on lock screen; continue audio when screen locks.
+	•	Goal: Real workout usability.
