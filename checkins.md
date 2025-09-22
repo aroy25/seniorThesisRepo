@@ -1,20 +1,19 @@
-## Week 1 Summary (MM/DD/YYYY)
+Week 1 Summary (09/15/2025)
 
 ### This week I worked on:
-
-[Your answer here]
+Finalizing my brainstorm on if i am content with my decision to create the music app
 
 ### This week I learned:
 
-[Your answer here]
+That its alot of software out there that i can use its more so what i feel comfortable with and would be willing to learn and still understand 
 
 ### My successes this week were:
 
-[Your answer here]
+Finalizing the tools i would like to use 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+so far none yet 
 
 ---
 
