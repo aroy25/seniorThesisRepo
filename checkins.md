@@ -1,4 +1,4 @@
-Week 1 Summary (09/15/2025)
+Week 1 Summary (09/22/2025)
 
 ### This week I worked on:
 Finalizing my brainstorm on if i am content with my decision to create the music app
