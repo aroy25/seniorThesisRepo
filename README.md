@@ -4,9 +4,9 @@
    - In workouts, it symbolizes the energy foundation that pushes athletes forward 
 
 
-## Use Cases
+## Use Cases (So far subject to change)
 
-### Use Case 1 - Library Exploration (End User):
+### Use Case 1 - Library Exploration
 	- Browse Catalog
 		•	Action: Scroll grid/rail of tiles with thumbnails, titles, energy badges.
 		•	Goal: Discover songs visually without forms.
@@ -18,7 +18,7 @@
 		•	Goal: One-tap curation.
 
 
-### Use Case 2  - Interactive Workout Building (End User)
+### Use Case 2  - Interactive Workout Building 
 	- Drag-and-Drop Rail
 		•	Action: Drag tiles from the library onto a horizontal timeline; color/label segments (Warmup, Push, Recover).
 		•	Goal: Compose a session playfully.
