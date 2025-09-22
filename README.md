@@ -1,7 +1,7 @@
-# Senior Thesis Repo: [Bass1in3]
-This repository is provided to help you build your senior thesis project. You will edit it to store your specification documents, code, and weekly checkins.
-
-First, fork this repo (this makes a copy of it associated with your account) and then clone it to your machine (this makes a copy of your fork on your personal machine). You can then use an editor and a GitHub client to manage the repository.
+[Bass1in3] - Workout Music Companion
+ - Name meaning
+   - In music, a bassline is the rhythm foundation that drives a track
+   - In workouts, it symbolizes the energy foundation that pushes athletes forward 
 
 ### Markdown
 This file is called README.md. It is a [Markdown file](https://en.wikipedia.org/wiki/Markdown). Markdown is a simple way to format documents. When a Markdown-ready viewer displays the contents of a file, it formats it to look like HTML. However, Markdown is significantly easier to write than HTML. VSCode supports displaying Markdown in a preview window. GitHub uses Markdown extensively including in every repo's description file, ```README.md```.
