@@ -17,22 +17,22 @@ so far none yet
 
 ---
 
-## Week 2 Summary (MM/DD/YYYY)
+## Week 2 Summary (09/29/2025)
 ### This week I worked on:
 
-[Your answer here]
+Building out my use case and verifying how i could set up the application recieving the music
 
 ### This week I learned:
 
-[Your answer here]
+that i will have to use a new way to pull api because i cant seem to generate a new youtube api
 
 ### My successes this week were:
 
-[Your answer here]
+finishing my use cases which also give me steps to build 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+realizing when i should start and aim at a date for myself to get this done 
 
 ---
 
