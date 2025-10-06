@@ -1,4 +1,4 @@
-Week 1 Summary (09/22/2025)
+Week 1 Summary (09/15/2025)
 
 ### This week I worked on:
 Finalizing my brainstorm on if i am content with my decision to create the music app
@@ -17,7 +17,7 @@ so far none yet
 
 ---
 
-## Week 2 Summary (09/29/2025)
+## Week 2 Summary (09/22/2025)
 ### This week I worked on:
 
 Building out my use case and verifying how i could set up the application recieving the music
@@ -36,22 +36,21 @@ realizing when i should start and aim at a date for myself to get this done
 
 ---
 
-## Week 3 Summary (MM/DD/YYYY)
+## Week 3 Summary (09/29/2025)
 ### This week I worked on:
-
-[Your answer here]
+On developing the frame work of the app and getting a semi working model
 
 ### This week I learned:
 
-[Your answer here]
+That it is really hard to code in xcode and that im still trying to make sure youtube allows me to embedded videos 
 
 ### My successes this week were:
 
-[Your answer here]
+I have got the framework done and a working out is there
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Trying to embedded videos because i keep runing into so many problems when playing the music even if i use the api
 
 ---
 
