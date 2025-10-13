@@ -54,22 +54,22 @@ Trying to embedded videos because i keep runing into so many problems when playi
 
 ---
 
-## Week 4 Summary (MM/DD/YYYY)
+## Week 4 Summary (10/06/2025)
 ### This week I worked on:
 
-[Your answer here]
+I worked on input the start of the application in and making sure the videos are actually playable and can be selected
 
 ### This week I learned:
 
-[Your answer here]
+That it is really difficult to actually use youtube api or in api into xcode because of embedding issues so i took a different approach that doesnt make me pay 99 dollars to be a apple developer 
 
 ### My successes this week were:
 
-[Your answer here]
+I have all the songs playing and you can click through and even pause them 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+Didnt realize i would have a bok of files so im struggling to clean the files i feel that can be put into 1
 
 ---
 
