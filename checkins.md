@@ -73,41 +73,41 @@ Didnt realize i would have a bok of files so im struggling to clean the files i 
 
 ---
 
-## Week 5 Summary (MM/DD/YYYY)
+## Week 5 Summary (10/13/2025)
 ### This week I worked on:
 
-[Your answer here]
+this week i worked on setting up the front end and mapping out some of the functionitly i am gearing toward
 
 ### This week I learned:
 
-[Your answer here]
+that its really hard trying to bring ideas in your mind to life when working with a new programming language 
 
 ### My successes this week were:
 
-[Your answer here]
+I got 2 of the fuctions for playing and skipping videos to work
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+is knowing what functions and imports to call when building with swift UI i did alot of reasearch 
 
 ---
 
-## Week 6 Summary (MM/DD/YYYY)
+## Week 6 Summary (10/20/2025)
 ### This week I worked on:
 
-[Your answer here]
+this week i worked on trying to set up the log in form 
 
 ### This week I learned:
 
-[Your answer here]
+that trying to do this is hard with importing the music because some youtube api is blocked 
 
 ### My successes this week were:
 
-[Your answer here]
+i may have a different approach with this but im still mapping it out 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+trying to balance this with work at times is difficult 
 
 ---
 
