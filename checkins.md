@@ -111,22 +111,22 @@ trying to balance this with work at times is difficult
 
 ---
 
-## Week 7 Summary (MM/DD/YYYY)
+## Week 7 Summary (10/27/2025)
 ### This week I worked on:
 
-[Your answer here]
+creating the functionality of each button for scngs to render and select properly like 2 weeks ago i just made some better changes
 
 ### This week I learned:
 
-[Your answer here]
+more about swift and how some buttons map different but mean the same thing like other languages 
 
 ### My successes this week were:
 
-[Your answer here]
+i got the skip, back and next button working better than i did 2 weeks ago
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+trying to make sure im always up to date with creating this 
 
 ---
 
