@@ -130,22 +130,22 @@ trying to make sure im always up to date with creating this
 
 ---
 
-## Week 8 Summary (MM/DD/YYYY)
+## Week 8 Summary (11/03/2025)
 ### This week I worked on:
 
-[Your answer here]
+I worked on getting some more of the workout builder view and getting my grid list and othe features for the libray together 
 
 ### This week I learned:
 
-[Your answer here]
+I learned how to create the grid and the ability to take tags and make the buttons to be able to sort through the music 
 
 ### My successes this week were:
 
-[Your answer here]
+I got alot of the functionality working and it looks good 
 
 ### The challenges I faced this week were:
 
-[Your answer here]
+in the workout builder if a user make selections on a song and try to play it, it doesnt neccasary go grab those songs 
 
 ---
 
